@@ -24,16 +24,18 @@ chmod 700 "fol_1/1_2.txt" # user rwx
 chmod 700 "fol_2/1_2.txt" # user rwx
 
 #Step 12
-# touch README.md
+ touch README.md
 
 #Step 13
-#echo "Denis O'Regan x22232524 " >> README.md
+echo "Denis O'Regan x22232524 " >> README.md
 
 #Step 14
-#echo "[DevOpsSec_Week2_Lab](https://github.com/DenisRegan/DevOpsSec_week2_lab)" >> README.md
+echo "[DevOpsSec_Week2_Lab](https://github.com/DenisRegan/DevOpsSec_week2_lab)" >> README.md
 
 #Step 15
 echo "---" >> README.md
 echo "To run the script.sh run: 'bash script.sh'" >> README.md
 
 
+#Step 17
+echo "Job Completed"
